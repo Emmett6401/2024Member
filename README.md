@@ -6,6 +6,7 @@
  
 ### 학생명단 및 프로필 & 포트폴리오 
 1. 성재용(우송   대학교) :  https://github.com/jysung1122 (인턴확정)
+
 +++++++ 1차 마감 (0604)
 2. 김윤정(우송   대학교) :  https://github.com/kingodjerry (이력+자소서)
 3. 박창배(우송   대학교) :  https://github.com/ChangbaePark (이력서, 자소서)
