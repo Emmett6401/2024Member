@@ -23,7 +23,7 @@
 16. 한승현(우송  대학교) : https://github.com/han7653
 17. 이상준(우송  대학교) : https://github.com/eru2
 18. 김민재(우송  대학교) : https://github.com/alswo3410
-19. '
+19. 손명호(나사렛대학교) :  https://github.com/thsaudgh8
 20. ~
 
 
