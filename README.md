@@ -16,7 +16,7 @@
 9. 박종호(우송   대학교) :  https://github.com/LostYourMind
 10. 조영빈(우송  대학교) :  https://github.com/BinnieJoe
 11. 유지원(나사렛대학교) : https://github.com/jiwon0629
-12. 이종혁(나사렛대학교) : https://github.com/leejh2311
+12. 이종혁(우송  대학) : https://github.com/leejh2311
 13. 이지현(우송  대학교) : https://github.com/jh226
 14. 황우진(우송  대학교) : https://github.com/HwangWooJin1028
 15. 최원진(우송  대학교) : https://github.com/onejin123
