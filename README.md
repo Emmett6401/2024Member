@@ -9,7 +9,7 @@
 
 +++++++ 1차 마감 (0604)
 2. 김윤정(우송   대학교) :  https://github.com/kingodjerry (이력+자소서)
-3. 박창배(우송   대학교) :  https://github.com/ChangbaePark (이력서, 자소서)
+3. 박창배(우송   대학교) :  https://github.com/ChangbaePark (이력서, 자소서) 
 4. 박희도(한밭   대학교) :  https://github.com/ParkHDO (이력+자소서)
 5. 조영빈(우송  대학교) :  https://github.com/BinnieJoe (이력서, 자소서)
 6. 최원진(우송  대학교) : https://github.com/onejin123 (이력+자소서)
