@@ -15,7 +15,7 @@
 8. 송승건(한밭대학교) :  https://github.com/SongSeungGun
 9. 박종호(우송대학교) :  https://github.com/LostYourMind
 10. 조영빈(우송대학교):  https://github.com/BinnieJoe
-11. .
+11. 유지원(나사렛대학교) : https://github.com/jiwon0629
 12. .
 13. ~
 
