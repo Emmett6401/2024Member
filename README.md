@@ -10,19 +10,19 @@
 +++++++ 1차 마감 (~0604)
 
 02. 김윤정(우송   대학교) :  https://github.com/kingodjerry (이력+자소서)
-03. 박창배(우송   대학교) :  https://github.com/ChangbaePark (이력서, 자소서) 
+03. 박창배(우송   대학교) :  https://github.com/ChangbaePark  (이력서, 자소서) 
 04. 박희도(한밭   대학교) :  https://github.com/ParkHDO (이력+자소서)
 05. 조영빈(우송  대학교) :  https://github.com/BinnieJoe (이력서, 자소서)
 06. 최원진(우송  대학교) : https://github.com/onejin123 (이력+자소서)
 
 +++++++ 2차 마감 (~0608)
 
-07. 이종혁(우송  대학) : https://github.com/leejh2311 (이력서, 자소서)
-08. 이지현(우송  대학교) : https://github.com/jh226 (이력+자소서)
-09. 황우진(우송  대학교) : https://github.com/HwangWooJin1028 (이력서, 자소서)
-10. 황주희(우송  대학교) : https://github.com/joheeeeeeeee (이력서, 자소서)
-11. 송승건(한밭   대학교) :  https://github.com/SongSeungGun (이력서, 자소서)
-12. 김민재(우송  대학교) : https://github.com/alswo3410 (이력서, 자소서)
+07. 이종혁(우송  대학) : https://github.com/leejh2311   (이력서, 자소서)
+08. 이지현(우송  대학교) : https://github.com/jh226   (이력+자소서)
+09. 황우진(우송  대학교) : https://github.com/HwangWooJin1028   (이력서, 자소서)
+10. 황주희(우송  대학교) : https://github.com/joheeeeeeeee   (이력서, 자소서)
+11. 송승건(한밭   대학교) :  https://github.com/SongSeungGun   (이력서, 자소서)
+12. 김민재(우송  대학교) : https://github.com/alswo3410   (이력서, 자소서)
 
 +++++++ 3차 접수중 (~0614)
 
