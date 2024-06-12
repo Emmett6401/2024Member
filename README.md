@@ -15,7 +15,7 @@
 05. 조영빈(우송  대학교) :  https://github.com/BinnieJoe (이력서, 자소서)
 06. 최원진(우송  대학교) : https://github.com/onejin123 (이력+자소서)
 
-+++++++ 2차 접수중 (~0608)
++++++++ 2차 마감 (~0608)
 
 07. 이종혁(우송  대학) : https://github.com/leejh2311(이력서, 자소서)
 08. 이지현(우송  대학교) : https://github.com/jh226(이력+자소서)
@@ -23,15 +23,21 @@
 10. 황주희(우송  대학교) : https://github.com/joheeeeeeeee
 11. 송승건(한밭   대학교) :  https://github.com/SongSeungGun
 12. 김민재(우송  대학교) : https://github.com/alswo3410
-   
 
-13. 박철현(우송   대학교) :  https://github.com/myhyun01
-14. 유태양(우송   대학교) :  https://github.com/IAMYUTAEYANG
-15. 길석종(우송   대학교) :  https://github.com/sugarycok10. 
-16. 
-17. 박종호(우송   대학교) :  https://github.com/LostYourMind
-18. 유지원(나사렛대학교) : https://github.com/jiwon0629
-19. 이종혁(우송  대학) : https://github.com/leejh2311
++++++++ 3차 접수중 (~0614)
+
+
+
+
+
+
+23. 박철현(우송   대학교) :  https://github.com/myhyun01
+34. 유태양(우송   대학교) :  https://github.com/IAMYUTAEYANG
+45. 길석종(우송   대학교) :  https://github.com/sugarycok10. 
+56. 
+57. 박종호(우송   대학교) :  https://github.com/LostYourMind
+58. 유지원(나사렛대학교) : https://github.com/jiwon0629
+59. 
 20. 
 21. 
 22. 한승현(우송  대학교) : https://github.com/han7653
