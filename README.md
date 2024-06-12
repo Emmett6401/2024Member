@@ -17,12 +17,12 @@
 
 +++++++ 2차 마감 (~0608)
 
-07. 이종혁(우송  대학) : https://github.com/leejh2311(이력서, 자소서)
-08. 이지현(우송  대학교) : https://github.com/jh226(이력+자소서)
-09. 황우진(우송  대학교) : https://github.com/HwangWooJin1028
-10. 황주희(우송  대학교) : https://github.com/joheeeeeeeee
-11. 송승건(한밭   대학교) :  https://github.com/SongSeungGun
-12. 김민재(우송  대학교) : https://github.com/alswo3410
+07. 이종혁(우송  대학) : https://github.com/leejh2311 (이력서, 자소서)
+08. 이지현(우송  대학교) : https://github.com/jh226 (이력+자소서)
+09. 황우진(우송  대학교) : https://github.com/HwangWooJin1028 (이력서, 자소서)
+10. 황주희(우송  대학교) : https://github.com/joheeeeeeeee (이력서, 자소서)
+11. 송승건(한밭   대학교) :  https://github.com/SongSeungGun (이력서, 자소서)
+12. 김민재(우송  대학교) : https://github.com/alswo3410 (이력서, 자소서)
 
 +++++++ 3차 접수중 (~0614)
 
