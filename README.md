@@ -5,24 +5,24 @@
    황동하(010-2512-6818 ioizzzzzz@naver.com)
  
 ### 학생명단 및 프로필 & 포트폴리오 
-1. 성재용(우송   대학교) :  https://github.com/jysung1122 (인턴확정)
+01. 성재용(우송   대학교) :  https://github.com/jysung1122 (인턴확정)
 
 +++++++ 1차 마감 (~0604)
 
-2. 김윤정(우송   대학교) :  https://github.com/kingodjerry (이력+자소서)
-3. 박창배(우송   대학교) :  https://github.com/ChangbaePark (이력서, 자소서) 
-4. 박희도(한밭   대학교) :  https://github.com/ParkHDO (이력+자소서)
-5. 조영빈(우송  대학교) :  https://github.com/BinnieJoe (이력서, 자소서)
-6. 최원진(우송  대학교) : https://github.com/onejin123 (이력+자소서)
+02. 김윤정(우송   대학교) :  https://github.com/kingodjerry (이력+자소서)
+03. 박창배(우송   대학교) :  https://github.com/ChangbaePark (이력서, 자소서) 
+04. 박희도(한밭   대학교) :  https://github.com/ParkHDO (이력+자소서)
+05. 조영빈(우송  대학교) :  https://github.com/BinnieJoe (이력서, 자소서)
+06. 최원진(우송  대학교) : https://github.com/onejin123 (이력+자소서)
 
 +++++++ 2차 접수중 (~0608)
 
-7. 이종혁(우송  대학) : https://github.com/leejh2311(이력서, 자소서)
-8. 이지현(우송  대학교) : https://github.com/jh226(이력+자소서)
-9. 황우진(우송  대학교) : https://github.com/HwangWooJin1028
-10.황주희(우송  대학교) : https://github.com/joheeeeeeeee
-11.송승건(한밭   대학교) :  https://github.com/SongSeungGun
-12.김민재(우송  대학교) : https://github.com/alswo3410
+07. 이종혁(우송  대학) : https://github.com/leejh2311(이력서, 자소서)
+08. 이지현(우송  대학교) : https://github.com/jh226(이력+자소서)
+09. 황우진(우송  대학교) : https://github.com/HwangWooJin1028
+10. 황주희(우송  대학교) : https://github.com/joheeeeeeeee
+11. 송승건(한밭   대학교) :  https://github.com/SongSeungGun
+12. 김민재(우송  대학교) : https://github.com/alswo3410
    
 
 13. 박철현(우송   대학교) :  https://github.com/myhyun01
