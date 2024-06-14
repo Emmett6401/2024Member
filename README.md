@@ -28,6 +28,16 @@
 
 13. 가상훈(우송  대학교) : https://github.com/Kashisland  (이력서+자소서)
 14. 길석종(우송  대학교) :  https://github.com/sugarycok10. (이력서+자소서)
+15. .
+16. .
+17. .
+18. .
+19. .
+20.  
+
+
+
+
 
 
 
