@@ -25,6 +25,7 @@
 12. 김민재(우송  대학교) : https://github.com/alswo3410   (이력서, 자소서)
 
 +++++++ 3차 접수중 (~0614)
+
 13. 가상훈(우송  대학교) : https://github.com/Kashisland  (이력서+자소서)
 14. 길석종(우송  대학교) :  https://github.com/sugarycok10. (이력서+자소서)
 
