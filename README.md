@@ -25,6 +25,8 @@
 12. 김민재(우송  대학교) : https://github.com/alswo3410   (이력서, 자소서)
 
 +++++++ 3차 접수중 (~0614)
+13. 가상훈(우송  대학교) : https://github.com/Kashisland  (이력서+자소서)
+14. 길석종(우송  대학교) :  https://github.com/sugarycok10. (이력서+자소서)
 
 
 
@@ -33,7 +35,7 @@
 
 23. 박철현(우송   대학교) :  https://github.com/myhyun01
 34. 유태양(우송   대학교) :  https://github.com/IAMYUTAEYANG
-45. 길석종(우송   대학교) :  https://github.com/sugarycok10. 
+45. 
 56. 
 57. 박종호(우송   대학교) :  https://github.com/LostYourMind
 58. 유지원(나사렛대학교) : https://github.com/jiwon0629
@@ -44,7 +46,7 @@
 23. 이상준(우송  대학교) : https://github.com/eru2
 24. 
 25. 손명호(나사렛대학교) : https://github.com/thsaudgh8
-26. 가상훈(우송  대학교) : https://github.com/Kashisland
+26. 
 27. 
 29. 문성현(우송  대학교) : https://github.com/gowjr1216
 30. 최용한(우송  대학교) : https://github.com/hann0424
