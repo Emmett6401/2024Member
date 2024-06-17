@@ -65,6 +65,8 @@
 30. 최용한(우송  대학교) : https://github.com/hann0424
 31. 황현서(우송  대학교) : https://github.com/HwangHyunSeoo
 32. 김준형(우송  대학교) : https://github.com/jhkim3098
+33. 유현우(나사렛대학교) : https://github.com/hyunnuuu
+34. 
 
 
 
