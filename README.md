@@ -28,39 +28,19 @@
 
 13. 가상훈(우송  대학교) : https://github.com/Kashisland  (이력서+자소서)
 14. 길석종(우송  대학교) :  https://github.com/sugarycok10. (이력서+자소서)
-15. .
+15. 박철현(우송   대학교) :  https://github.com/myhyun01 (자소서)
 16. .
 17. .
 18. .
 19. .
 20.  
-
-
-
-
-
-
-
-
-
-
-
-
-23. 박철현(우송   대학교) :  https://github.com/myhyun01
+23. 
 34. 유태양(우송   대학교) :  https://github.com/IAMYUTAEYANG
-45. 
-56. 
 57. 박종호(우송   대학교) :  https://github.com/LostYourMind
 58. 유지원(나사렛대학교) : https://github.com/jiwon0629
-59. 
-20. 
-21. 
 22. 한승현(우송  대학교) : https://github.com/han7653
 23. 이상준(우송  대학교) : https://github.com/eru2
-24. 
 25. 손명호(나사렛대학교) : https://github.com/thsaudgh8
-26. 
-27. 
 29. 문성현(우송  대학교) : https://github.com/gowjr1216
 30. 최용한(우송  대학교) : https://github.com/hann0424
 31. 황현서(우송  대학교) : https://github.com/HwangHyunSeoo
