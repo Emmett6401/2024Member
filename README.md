@@ -24,16 +24,20 @@
 11. 송승건(한밭   대학교) :  https://github.com/SongSeungGun   (이력서, 자소서)
 12. 김민재(우송  대학교) : https://github.com/alswo3410   (이력서, 자소서)
 
-+++++++ 3차 접수중 (~0614)
++++++++ 3차 접수중 (~0624)
 
 13. 가상훈(우송  대학교) : https://github.com/Kashisland  (이력서+자소서)
 14. 길석종(우송  대학교) :  https://github.com/sugarycok10. (이력서+자소서)
 15. 박철현(우송   대학교) :  https://github.com/myhyun01 (자소서)
 16. 정솔(우송대학교) : https://github.com/gaon12 (자소서 이력서 2023)
-17. .
-18. .
+    
++++++++ 4차 접수중 (~0715)
+
+17 . 
 19. .
-20.  
+20. .
+21. .
+22.  
 23. 
 34. 유태양(우송   대학교) :  https://github.com/IAMYUTAEYANG
 57. 박종호(우송   대학교) :  https://github.com/LostYourMind
