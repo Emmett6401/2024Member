@@ -34,12 +34,9 @@
 +++++++ 4차 접수중 (~0715)
 
 17 . 
-19. .
-20. .
-21. .
-22.  
-23. 
-34. 유태양(우송   대학교) :  https://github.com/IAMYUTAEYANG
+
+
+17 . 유태양(우송   대학교) :  https://github.com/IAMYUTAEYANG
 57. 박종호(우송   대학교) :  https://github.com/LostYourMind
 58. 유지원(나사렛대학교) : https://github.com/jiwon0629
 22. 한승현(우송  대학교) : https://github.com/han7653
