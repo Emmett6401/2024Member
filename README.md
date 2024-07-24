@@ -31,25 +31,16 @@
 15. 박철현(우송   대학교) :  https://github.com/myhyun01 (자소서)
 16. 정솔(우송대학교) : https://github.com/gaon12 (자소서 이력서 2023)
 17. 이종혁(나사렛대학교) : https://github.com/KR-LJH
-    
 +++++++ 4차 접수중 (~0715)
-
-
-
-
-17 . 유태양(우송   대학교) :  https://github.com/IAMYUTAEYANG
-57. 박종호(우송   대학교) :  https://github.com/LostYourMind
-58. 유지원(나사렛대학교) : https://github.com/jiwon0629
-22. 한승현(우송  대학교) : https://github.com/han7653
-23. 이상준(우송  대학교) : https://github.com/eru2
-25. 손명호(나사렛대학교) : https://github.com/thsaudgh8
-29. 문성현(우송  대학교) : https://github.com/gowjr1216
-30. 최용한(우송  대학교) : https://github.com/hann0424
-31. 황현서(우송  대학교) : https://github.com/HwangHyunSeoo
-32. 김준형(우송  대학교) : https://github.com/jhkim3098
-33. 유현우(나사렛대학교) : https://github.com/hyunnuuu
-34. 송상민(우송 대학교) : https://github.com/Sirriaa/Sirriaa
-
-
-
-38. .
+18. 유태양(우송   대학교) :  https://github.com/IAMYUTAEYANG
+19. 박종호(우송   대학교) :  https://github.com/LostYourMind
+20. 유지원(나사렛대학교) : https://github.com/jiwon0629
+21. 한승현(우송  대학교) : https://github.com/han7653
+22. 이상준(우송  대학교) : https://github.com/eru2
+23. 손명호(나사렛대학교) : https://github.com/thsaudgh8
+24. 문성현(우송  대학교) : https://github.com/gowjr1216
+25. 최용한(우송  대학교) : https://github.com/hann0424
+26. 황현서(우송  대학교) : https://github.com/HwangHyunSeoo
+27. 김준형(우송  대학교) : https://github.com/jhkim3098
+28. 유현우(나사렛대학교) : https://github.com/hyunnuuu
+29. 송상민(우송 대학교) : https://github.com/Sirriaa/Sirriaa
