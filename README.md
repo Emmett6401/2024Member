@@ -31,7 +31,9 @@
 15. 박철현(우송   대학교) :  https://github.com/myhyun01 (자소서)
 16. 정솔(우송대학교) : https://github.com/gaon12 (자소서 이력서 2023)
 17. 이종혁(나사렛대학교) : https://github.com/KR-LJH
+
 +++++++ 4차 접수중 (~0715)
+
 18. 유태양(우송   대학교) :  https://github.com/IAMYUTAEYANG
 19. 박종호(우송   대학교) :  https://github.com/LostYourMind
 20. 유지원(나사렛대학교) : https://github.com/jiwon0629
