@@ -24,7 +24,7 @@
 11. 송승건(한밭   대학교) :  https://github.com/SongSeungGun   (이력서, 자소서)
 12. 김민재(우송  대학교) : https://github.com/alswo3410   (이력서, 자소서)
 
-+++++++ 3차 접수중 (~0624)
++++++++ 3차 마감 (~0624)
 
 13. 가상훈(우송  대학교) : https://github.com/Kashisland  (이력서+자소서)
 14. 길석종(우송  대학교) :  https://github.com/sugarycok10. (이력서+자소서)
@@ -33,7 +33,7 @@
     
 +++++++ 4차 접수중 (~0715)
 
-17 . 
+17. 이종혁(나사렛대학교) : https://github.com/KR-LJH
 
 
 17 . 유태양(우송   대학교) :  https://github.com/IAMYUTAEYANG
