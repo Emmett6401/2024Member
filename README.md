@@ -46,3 +46,4 @@
 27. 김준형(우송  대학교) : https://github.com/jhkim3098
 28. 유현우(나사렛대학교) : https://github.com/hyunnuuu
 29. 송상민(우송 대학교) : https://github.com/Sirriaa/Sirriaa
+30. 전유진(우송대학교 교수) : https://github.com/Sirriaa/Sirriaa
